@@ -1,13 +1,12 @@
 Struct-ve-Union-kullanarak-epoch-hesaplama
 
 Proje Açıklaması:Bu proje, veri yapıları ve algoritmalar dersi kapsamında, struct ve union kullanarak epoch zaman farkı hesaplamayı amaçlayan bir C programıdır. 
-Kullanıcıdan iki farklı tarih ve saat alınarak epoch zamanına çevrilir ve zaman farkı ekrana yazdırılır.  Program, seyahat planlaması gibi günlük hayatta zaman farklarını hesaplamada kullanılabilir.
-
+Kullanıcıdan iki farklı tarih ve saat alınarak epoch zamanına çevrilir ve zaman farkı ekrana yazdırılır.
+Program, seyahat planlaması gibi günlük hayatta zaman farklarını hesaplamada kullanılabilir.
 
 Seyahat Planlama - Epoch Zaman Farkı Hesaplama
-
-Bu proje, struct ve union kullanarak iki tarih arasındaki zaman farkını hesaplar. Kullanıcıdan gidiş ve dönüş tarihleri alınarak epoch zamanına çevrilir ve fark gün, saat, dakika cinsinden gösterilir.
-
+Bu proje, struct ve union kullanarak iki tarih arasındaki zaman farkını hesaplar. 
+Kullanıcıdan gidiş ve dönüş tarihleri alınarak epoch zamanına çevrilir ve fark gün, saat, dakika cinsinden gösterilir.
 Kullanıcıdan YYYY MM DD HH MM SS formatında tarih girişleri alınır.
 Program, iki tarih arasındaki farkı gün, saat ve dakika olarak gösterir.
 
