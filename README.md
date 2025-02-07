@@ -4,7 +4,7 @@ Proje Açıklaması:Bu proje, veri yapıları ve algoritmalar dersi kapsamında,
 Kullanıcıdan iki farklı tarih ve saat alınarak epoch zamanına çevrilir ve zaman farkı ekrana yazdırılır.
 Program, seyahat planlaması gibi günlük hayatta zaman farklarını hesaplamada kullanılabilir.
 
-Seyahat Planlama - Epoch Zaman Farkı Hesaplama
+Seyahat Planlama - Epoch Zaman Farkı Hesaplama:
 Bu proje, struct ve union kullanarak iki tarih arasındaki zaman farkını hesaplar. 
 Kullanıcıdan gidiş ve dönüş tarihleri alınarak epoch zamanına çevrilir ve fark gün, saat, dakika cinsinden gösterilir.
 Kullanıcıdan YYYY MM DD HH MM SS formatında tarih girişleri alınır.
