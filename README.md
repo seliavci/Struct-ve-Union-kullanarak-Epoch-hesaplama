@@ -41,7 +41,6 @@ Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirs
 Projeyi forklayın ve bilgisayarınıza indirin.
 Yapmak istediğiniz değişiklikleri gerçekleştirin.
 Değişikliklerinizi bir pull request ile gönderin.
-Lisans
 
 Bu proje, MIT Lisansı ile lisanslanmıştır.
 
