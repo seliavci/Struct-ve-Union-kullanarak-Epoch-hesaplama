@@ -7,12 +7,6 @@ Seyahat Planlama - Epoch Zaman Farkı Hesaplama
 
 Bu proje, struct ve union kullanarak iki tarih arasındaki zaman farkını hesaplar. Kullanıcıdan gidiş ve dönüş tarihleri alınarak epoch zamanına çevrilir ve fark gün, saat, dakika cinsinden gösterilir.
 
-Kullanım;
-Programı çalıştırmak için şu komutları kullanın:
-   ```sh
-   gcc main.c -o travel_time
-   ./travel_time
-
 Kullanıcıdan YYYY MM DD HH MM SS formatında tarih girişleri alınır.
 Program, iki tarih arasındaki farkı gün, saat ve dakika olarak gösterir.
 
