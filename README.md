@@ -36,7 +36,14 @@ Dosyalar;
 main.c → C programının kaynak kodu.
 README.md → Bu projenin açıklamalarını içerir.
 
+Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
 
+Projeyi forklayın ve bilgisayarınıza indirin.
+Yapmak istediğiniz değişiklikleri gerçekleştirin.
+Değişikliklerinizi bir pull request ile gönderin.
+Lisans
+
+Bu proje, MIT Lisansı ile lisanslanmıştır.
 
 
 
